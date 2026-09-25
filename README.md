@@ -1,4 +1,3 @@
-# Tugas membuat biodata
 <!DOCTYPE html>
 
 <html>
